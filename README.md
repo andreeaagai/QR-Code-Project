@@ -25,6 +25,17 @@ QR-Code-Project este un tool de linie de comandă creat cu Node.js care genereaz
 - **fs (File System)** – pentru salvarea fișierelor local
 
 ---
+
+## Known Issues
+
+- Proiectul funcționează doar în terminal (CLI)
+
+- Nu există validare pentru URL incorect introdus
+
+- Nu există opțiuni avansate de personalizare a codului QR
+
+---
+
 ## Screenshots / Demo GIF
 ![QR Code](./qr_img.png)
 ---
